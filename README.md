@@ -1,9 +1,11 @@
-"In Alien Invasion, the player controls a rocket ship that appears at the botton center of the screen.
-The player can move the ship right and left using the arrow keys and shoot bullets using the spacebar.
-When the game begins, a fleet of aliens fills the sky and moves across and down the screen.
-The player shoots and destroys the aliens. If the player shoots all the aliens, a new fleet appears that moves faster than the previous fleet.
-If any alien hits the player's ship or reaches the bottom of the screen, the player losses a ship.
-If the player loses three ships, game is over"
+# Greeting, comrade!
+
+The alien from the planet of USB has come to our Earth to extract penut oil
+However, we are not give it up easily.
+
+Now the motherland need your heroic spirit more than ever (not counting ww1, ww2 lol)
+Come here, look, come and listen: jump to your ship and make us proud
+"I served the Penut Union"
 
 Simple arcade shooting game using pygame
 python3 v. 3.10.6
